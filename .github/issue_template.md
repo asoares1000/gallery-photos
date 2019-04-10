@@ -1,7 +1,7 @@
 # Pre create issue
 
-- [] Read the guidelines
-- [] Test code
+- [ ] Read the guidelines
+- [ ] Test code
 
 ## Description
 
